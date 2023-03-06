@@ -1,1 +1,0 @@
-# Reconhecimento de número escrito
